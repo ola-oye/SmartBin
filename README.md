@@ -16,6 +16,7 @@ SmartBin is an automated system that converts organic waste into compost through
 ## System Architecture
 
 ![System Block Diagram](images/schematic.png)
+
 *System Schematic*
 
 ### Process Flow:
