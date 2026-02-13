@@ -1,5 +1,5 @@
-# SmartBin - Automated Organic Waste Processor 🌱
-## 📌 Overview
+# SmartBin - Automated Organic Waste Processor 
+## Overview
 
 SmartBin is an automated system that converts organic waste into compost through a controlled drying and grinding process. The system features odor control using carbon filtration, automated waste level detection, and a custom-designed ESP32-based motherboard for complete process automation.
 
@@ -13,7 +13,7 @@ SmartBin is an automated system that converts organic waste into compost through
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ![System Block Diagram](images/schematic.png)
 *System Schematic*
@@ -27,7 +27,7 @@ SmartBin is an automated system that converts organic waste into compost through
 
 ---
 
-## 🔧 Hardware Design
+## Hardware Design
 
 ### Custom Motherboard (KiCad)
 
@@ -77,7 +77,7 @@ SmartBin is an automated system that converts organic waste into compost through
 6. **Heater Connection:** Heating element to SSR output
 
 
-## 📊 Testing & Validation
+## Testing & Validation
 
 | Test | Method | Result |
 |------|--------|--------|
@@ -89,7 +89,7 @@ SmartBin is an automated system that converts organic waste into compost through
 
 ---
 
-## 🚧 Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge | Solution |
 |-----------|----------|
@@ -99,7 +99,7 @@ SmartBin is an automated system that converts organic waste into compost through
 | Inrush current on motor start | Added soft-start PWM ramp |
 
 ---
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] WiFi connectivity for remote monitoring
 - [ ] Mobile app integration for status alerts
@@ -108,15 +108,15 @@ SmartBin is an automated system that converts organic waste into compost through
 - [ ] Multiple bin capacity expansion
 - [ ] Machine learning for optimal cycle prediction
 
-## 👨‍💻 Author
+## Author
 
-**Fatai Olasunkanmi**  
+**Fatai Oyetunji**  
 Computer Science, University of Lagos  
 [GitHub](https://github.com/ola-oye) | [LinkedIn](https://linkedin.com/in/olasunkanmi)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - University of Lagos Computer Science Department
 - NitHub, University of Lagos
